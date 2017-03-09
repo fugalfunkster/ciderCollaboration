@@ -39,7 +39,7 @@ form:
     "offset": number,
     "limit": number
   },
-  "singularEntityName": entities
+  "pluralEntityName": entities
 }
 
 where entities is an array of objects, each of which containing a single entity's state.

@@ -1,0 +1,23 @@
+{
+  "name": "ciderCollaboration",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fugalfunkster/ciderCollaboration.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fugalfunkster/ciderCollaboration/issues"
+  },
+  "homepage": "https://github.com/mfugalfunkster/ciderCollaboration#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "pg": "^6.1.4"
+  }
+}
